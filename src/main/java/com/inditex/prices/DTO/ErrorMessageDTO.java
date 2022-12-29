@@ -3,6 +3,10 @@ package com.inditex.prices.DTO;
 import lombok.Builder;
 import lombok.Data;
 
+/**
+ * @author acarriog
+ * DTO ErrorMessage encargado de mostrar el mensaje y código de error de las excepciones
+ */
 @Data
 @Builder
 public class ErrorMessageDTO {

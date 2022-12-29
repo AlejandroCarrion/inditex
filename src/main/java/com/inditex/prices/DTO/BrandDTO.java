@@ -1,5 +1,9 @@
 package com.inditex.prices.DTO;
 
+/**
+ * @author acarriog
+ * DTO de la entidad Brand
+ */
 public class BrandDTO {
 
 	private int brandId;

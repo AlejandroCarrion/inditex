@@ -2,6 +2,11 @@ package com.inditex.prices.DTO;
 
 import java.sql.Timestamp;
 
+/**
+ * @author acarriog
+ * DTO de la entidad Prices
+ * 
+ */
 public class PricesDTO {
 
 	private Long productId;

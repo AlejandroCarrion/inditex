@@ -6,6 +6,12 @@ import javax.persistence.*;
 
 import lombok.Data;
 
+/**
+ * @author acarriog
+ * Entidad de la tabla brand la cual obtiene los datos de la categoria 
+ * (brand_id (Brand), brand_name (String)
+ * 
+ */
 @Data
 @Entity(name="brand")
 public class Brand {

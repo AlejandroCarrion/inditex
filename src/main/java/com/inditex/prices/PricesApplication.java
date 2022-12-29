@@ -41,7 +41,7 @@ public class PricesApplication {
 	
 
 	/**
-	 * Método createH2DB() encargado de crear la base datos H2 (db en memoria)
+	 * Método createH2DB() crea la base datos H2 (db en memoria)
 	 * @param pricesRepository (PricesRepository)
 	 * @param brandRepository (BrandRepository)
 	 * @return CommandLineRunner
